@@ -1,4 +1,3 @@
-#MyChatApp
 This is a real chat app where people can join a room by inputing their name and the room they want to join. And once they are in the room, they can chat with each other, send emojis, etc. Technologies like react, express, sockets.io were used to develop this web app.
 In order to the this app:
 1) Clone the repository.
